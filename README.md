@@ -19,14 +19,14 @@ Senior: for 4 customers, add items to the cart
 
 4- add items, remove items, and don't buy 
 
-
+-------------------------------------
 
 2- items (items)
 
 type of items, price of items, availability of items
 
 
-
+------------------------------------
 3-shopping cart(cart)
 
 items (number of items, price of items)
@@ -35,7 +35,7 @@ items (number of items, price of items)
 
 total items and total price for every customer 
 
-
+-----------------------------------------
 
 4- number of customers (Customer)
 
