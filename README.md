@@ -3,7 +3,7 @@ DEPI assignments
 
 -JAVA CENTRAL INVOICE
 
-Name for the store
+Name of the store
 
 
 
